@@ -1,0 +1,12 @@
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NlogMongoEx.deps.json
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NlogMongoEx.runtimeconfig.json
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NlogMongoEx.runtimeconfig.dev.json
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NlogMongoEx.dll
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.csprojAssemblyReference.cache
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.csproj.CoreCompileInputs.cache
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.AssemblyInfoInputs.cache
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.AssemblyInfo.cs
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NLog.config
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\bin\Debug\netcoreapp2.2\NlogMongoEx.pdb
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.dll
+C:\Users\dhelvaci\source\repos\NlogMongoEx\NlogMongoEx\obj\Debug\netcoreapp2.2\NlogMongoEx.pdb
